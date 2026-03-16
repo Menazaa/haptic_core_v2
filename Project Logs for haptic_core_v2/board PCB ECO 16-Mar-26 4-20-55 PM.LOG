@@ -1,0 +1,16 @@
+Added Component: Designator=L400(FP-LPS3015-MFG)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.digikey.com/en/products/detail/coilcraft/LPS3015-223MRC/12714657"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "COILCRAFT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LPS3015-223MRC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "994-LPS3015-223MRC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Coilcraft/LPS3015-223MRC?qs=QQJxVsr8EGYLL9xIR9QoZA%3D%3D"; VariantName = "[No Variations]"
+Add component: Footprint Not Found RESC1607X60N
+Added Pin To Net: NetName=NetL400_1 Pin=L400-1
+Added Pin To Net: NetName=NetL400_2 Pin=L400-2
+Add Pin To Net: Unknown Pin: Pin R200-1
+Add Pin To Net: Unknown Pin: Pin R200-2
+Added Member To Class: ClassName=U_Power Member=Component L400 LPS3015-223MRC
+Add Class Member: Failed to add class member : Component R200 10K

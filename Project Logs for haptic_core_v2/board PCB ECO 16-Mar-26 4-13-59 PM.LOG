@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=U401 Old Footprint=FP-RNM0015A-MFG New Footprint=FP-RNM0015A-MFG
+Add component: Footprint Not Found LPS3015223MRC
+Add component: Footprint Not Found RESC1607X60N
+Add component: Footprint Not Found RESC1607X60N
+Add component: Footprint Not Found RESC1607X60N
+Add Pin To Net: Unknown Pin: Pin L400-1
+Add Pin To Net: Unknown Pin: Pin L400-2
+Add Pin To Net: Unknown Pin: Pin R200-1
+Add Pin To Net: Unknown Pin: Pin R200-2
+Add Pin To Net: Unknown Pin: Pin R500-1
+Add Pin To Net: Unknown Pin: Pin R500-2
+Add Pin To Net: Unknown Pin: Pin R501-1
+Add Pin To Net: Unknown Pin: Pin R501-2
+Add Class Member: Failed to add class member : Component L400 LPS3015-223MRC
+Add Class Member: Failed to add class member : Component R200 10K
+Add Class Member: Failed to add class member : Component R500 5.1K
+Add Class Member: Failed to add class member : Component R501 5.1K

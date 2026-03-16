@@ -1,0 +1,86 @@
+Change Component Footprint: Designator=U400 Old Footprint=QFN-ML20_M New Footprint=QFN-ML20_M
+Add component: Footprint Not Found LPS3015223MRC
+Add component: Footprint Not Found RESC1607X60N
+Add component: Footprint Not Found RESC1607X60N
+Add component: Footprint Not Found RESC1607X60N
+Added Component: Designator=U401(FP-RNM0015A-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "VQFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Voltage Regulators - Switching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://octopart.com:443/opatz8j6/c1?t=dhCZltYoo_UkPhesAZpvIZTz42jcjPYjzQrmXWuK15fI5KXqnKRrCL9KEBmr3IM6HD6YioQCFSPZfMXUDn0Vme1fr8oLJBsEBqmfs6yA0YjUz45d92W7eQYxzyF0vQVmkJOzV0l4D_EdjPxUZjJu4yz2Xnc4SBK04Rs7bqL42RcAKvJ0PJ9O_C_MfxyWmIK4NBcIiDYVjqBirsiLe-Hdw51UiXTXIN-O1wh9-QM-wbFH3PtY_kSaA31dqItJyAV3A_ATfrsLiODg4tBU0CxYGHeOm2X6r0KwYAL2nGtRZ9XlUYfaFH4zewqVjxAOzj2dIQPGWdHUhWeodas115gv1OIeLKNtKl-2xOwkJz88MQ1Vr-SJnmZIWTmdn1jarGObcJfwIAJ_&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://octopart.com:443/opatz8j6/c1?t=dhCZltYoo_UkPhesAZpvIZTz42jcjPYjzQrmXWuK15fI5KXqnKRrCL9KEBmr3IM6HD6YioQCFSPZfMXUDn0Vme1fr8oLJBsEBqmfs6yA0YjUz45d92W7eQYxzyF0vQVmkJOzV0l4D_EdjPxUZjJu4yz2Xnc4SBK04Rs7bqL42RcAKvJ0PJ9O_C_MfxyWmIK4NBcIiDYVjqBirsiLe-Hdw51UiXTXIN-O1wh9-QM-wbFH3PtY_kSaA31dqItJyAV3A_ATfrsLiODg4tBU0CxYGHeOm2X6r0KwYAL2nGtRZ9XlUYfaFH4zewqVjxAOzj2dIQPGWdHUhWeodas115gv1OIeLKNtKl-2xOwkJz88MQ1Vr-SJnmZIWTmdn1jarGObcJfwIAJ_&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/TPS63070RNMR-Texas-Instruments-datasheet-99731598.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/TPS63070RNMR-Texas-Instruments-datasheet-99731598.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/TPS63070RNMR-Texas-Instruments-datasheet-159118225.pdf?src-supplier=LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/TPS63070RNMR-Texas-Instruments-datasheet-159118225.pdf?src-supplier=LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/TPS63070RNMR-Texas-Instruments-datasheet-140571939.pdf?src-supplier=Arrow.cn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/TPS63070RNMR-Texas-Instruments-datasheet-140571939.pdf?src-supplier=Arrow.cn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TPS63070RNMR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Duty Cycle"; Value = "100%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Voltage"; Value = "9V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=2.422, 10=1.968, 25=1.817, 100=1.658, 250=1.574, 500=1.518, 1000=1.403 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "50uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8542390000, 8542390000|8542390000|8542390000|8542390000|8542390000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "1476"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "TPS63070RNMR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "2.4MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectifier"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "900µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "Buck-Boost"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin L400-1
+Add Pin To Net: Unknown Pin: Pin L400-2
+Add Pin To Net: Unknown Pin: Pin R200-1
+Add Pin To Net: Unknown Pin: Pin R200-2
+Add Pin To Net: Unknown Pin: Pin R500-1
+Add Pin To Net: Unknown Pin: Pin R500-2
+Add Pin To Net: Unknown Pin: Pin R501-1
+Add Pin To Net: Unknown Pin: Pin R501-2
+Added Pin To Net: NetName=NetR405_1 Pin=U401-1
+Added Pin To Net: NetName=NetR406_2 Pin=U401-2
+Added Pin To Net: NetName=NetC400_1 Pin=U401-3
+Added Pin To Net: NetName=MCU_GND Pin=U401-4
+Added Pin To Net: NetName=NetR400_1 Pin=U401-5
+Added Pin To Net: NetName=MCU_GND Pin=U401-6
+Added Pin To Net: NetName=5V0 Pin=U401-7-8
+Added Pin To Net: NetName=NetL400_1 Pin=U401-9
+Added Pin To Net: NetName=MCU_GND Pin=U401-10
+Added Pin To Net: NetName=NetL400_2 Pin=U401-11
+Added Pin To Net: NetName=NetC407_2 Pin=U401-12-13
+Added Pin To Net: NetName=NetR405_1 Pin=U401-14
+Added Pin To Net: NetName=MCU_GND Pin=U401-15
+Add Class Member: Failed to add class member : Component L400 LPS3015-223MRC
+Add Class Member: Failed to add class member : Component R200 10K
+Add Class Member: Failed to add class member : Component R500 5.1K
+Add Class Member: Failed to add class member : Component R501 5.1K
+Added Member To Class: ClassName=U_Power Member=Component U401 TPS63070RNMR

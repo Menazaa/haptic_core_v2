@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=MASTER.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=MASTER.SchDoc|Designator=U_MCU_nRF5340|SchDesignator=U_MCU_nRF5340|FileName=MCU_nRF5340.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=MCU_nRF5340.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MASTER.SchDoc|Designator=U_Peripherals|SchDesignator=U_Peripherals|FileName=Peripherals.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Peripherals.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MASTER.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MASTER.SchDoc|Designator=U_USB|SchDesignator=U_USB|FileName=USB.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=USB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
